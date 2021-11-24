@@ -1,6 +1,10 @@
-this is pseudo code file
 <<<<<<< HEAD
+this is pseudo code fi
 develop
-=======
+
 feature
->>>>>>> feature1
+
+=======
+this is pseudo code file
+feature2
+>>>>>>> feature2
